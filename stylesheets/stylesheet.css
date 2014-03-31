@@ -80,13 +80,11 @@ li.facebook a {
 header {
   color: white; }
 
-/*
-  #container {
-    width: 100%px;
-    height: 600px;
-    background-color: $color-main; 
-  }
-  */
+#container {
+  width: 100%px;
+  height: 600px;
+  background-color: #cc6633; }
+
 h1 {
   padding: 15px 0;
   font-size: 54px;
