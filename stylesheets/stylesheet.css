@@ -77,14 +77,20 @@ li.facebook a {
       -moz-background-size: 24px 24px;
       background-size: 24px 24px; } }
 
-header {
-  color: white; }
-
-#container {
-  width: 940px;
+body {
   height: 600px;
   background-color: #cc6633; }
 
+header {
+  color: white; }
+
+/*
+  #container {
+    width: 100%px;
+    height: 600px;
+    background-color: $color-main; 
+  }
+  */
 h1 {
   padding: 15px 0;
   font-size: 54px;
