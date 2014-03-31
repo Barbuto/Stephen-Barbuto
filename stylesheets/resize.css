@@ -76,19 +76,3 @@ li.facebook a {
       -webkit-background-size: 24px 24px;
       -moz-background-size: 24px 24px;
       background-size: 24px 24px; } }
-
-h1 {
-  padding: 15px 0;
-  font-size: 54px;
-  font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
-  font-weight: bold;
-  font-line-height: 1; }
-  @media only screen and (max-width: 1200px) {
-    h1 {
-      font-size: 48px; } }
-  @media only screen and (max-width: 800px) {
-    h1 {
-      font-size: 32px; } }
-  @media only screen and (max-width: 500px) {
-    h1 {
-      font-size: 20px; } }

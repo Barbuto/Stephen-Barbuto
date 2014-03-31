@@ -9,16 +9,20 @@
     padding: 15px 0;
     font: {
     size: 54px;
-    family: Jubilat, Georgia, serif;
+    family: $font-sans;
     weight: bold;   
     line-height: 1;
     }
     @include responsive(wide-screens) {
      font-size: 48px;
     }
+    
     @include responsive(medium-screens) {
       font-size: 32px;
     }
+    
     @include responsive(small-screens) {
       font-size: 20px;
     } 
+  }
+    
