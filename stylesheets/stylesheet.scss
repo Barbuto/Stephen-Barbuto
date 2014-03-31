@@ -6,8 +6,14 @@
 
   }
   header {
-    margin: 115px;
+    
     color: $color-light;
+  }
+
+  #container {
+    width: 940px;
+    height: 600px;
+    background-color: $color-main; 
   }
   h1 {
     padding: 15px 0;
