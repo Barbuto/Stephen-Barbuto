@@ -3,18 +3,22 @@
 @import "resize.scss";
 
   body{
+     height: 600px;
+     background-color: $color-main; 
+
 
   }
   header {
     
     color: $color-light;
   }
-
+/*
   #container {
-    width: 940px;
+    width: 100%px;
     height: 600px;
     background-color: $color-main; 
   }
+  */
   h1 {
     padding: 15px 0;
     font: {
