@@ -81,6 +81,7 @@ header {
   color: white; }
 
 footer {
+  clear: both;
   font-size: 12px;
   color: #b8b8b8; }
 
@@ -92,7 +93,8 @@ footer {
   right: 0;
   bottom: 292px;
   left: 0;
-  overflow: hidden; }
+  overflow: hidden;
+  background-size: 1363px 1180px; }
   #billboard .background {
     right: auto;
     left: 50%;
