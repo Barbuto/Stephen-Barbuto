@@ -81,16 +81,15 @@ header {
   color: white; }
 
 footer {
-  font-size: 8px;
+  font-size: 12px;
   color: #b8b8b8; }
 
-#container {
-  width: 100%px;
-  height: 600px;
+#billboard {
+  background-position: 50% 55%;
   background-color: #cc6633; }
 
 h1 {
-  padding: 15px 0;
+  padding: 25px 0;
   font-size: 54px;
   font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
   font-weight: bold;

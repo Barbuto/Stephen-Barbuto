@@ -7,16 +7,14 @@
 
   }
   header {
-    margin 0 115px 0; 
     color: $color-light;
   }
   footer {
       font-size: 12px;
       color: $color-lighter;
   }
-  #container {
-    width: 100%px;
-    height: 600px;
+  #billboard {
+   background-position: 50% 55%; 
     background-color: $color-main; 
   }
 
