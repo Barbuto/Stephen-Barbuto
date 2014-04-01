@@ -121,7 +121,17 @@ h1 {
   @media only screen and (max-width: 500px) {
     h1 {
       font-size: 20px; } }
-  h1 h2 {
-    padding: 25px 0;
-    float: right;
-    margin-right: 55%; }
+
+h2 {
+  padding: 25px 0;
+  float: right;
+  margin-right: 55%; }
+  @media only screen and (max-width: 1200px) {
+    h2 {
+      font-size: 48px; } }
+  @media only screen and (max-width: 800px) {
+    h2 {
+      font-size: 32px; } }
+  @media only screen and (max-width: 500px) {
+    h2 {
+      font-size: 20px; } }

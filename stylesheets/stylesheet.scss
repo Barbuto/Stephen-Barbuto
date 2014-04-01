@@ -57,12 +57,22 @@
     @include responsive(small-screens) {
       font-size: 20px;
     } 
+   } 
   h2 {
     padding: 25px 0;
     float: right;
     margin-right: 55%; 
-
-  }
-
-  }
+   
+   @include responsive(wide-screens) {
+     font-size: 48px;
+    }
+    
+    @include responsive(medium-screens) {
+      font-size: 32px;
+    }
+    
+    @include responsive(small-screens) {
+      font-size: 20px;
+    } 
+}
     
