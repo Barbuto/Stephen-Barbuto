@@ -15,7 +15,24 @@
   }
   #billboard {
    background-position: 50% 55%; 
-    background-color: $color-main; 
+   background-color: $color-main;
+   position: absolute;
+   top: 0;
+   right: 0;
+   bottom: 292px;
+   left: 0;
+   overflow: hidden;
+   
+   .background{
+      right: auto;
+      left: 50%;
+      margin-left: -732px;
+      width: 1440px;
+      background-size: 1363px 1180px;
+   }
+   .pos{
+      position: absolute;
+   } 
   }
 
   h1 {
