@@ -59,10 +59,10 @@
     } 
    } 
   h2 {
-    padding: 25px 0;
     float: right;
     margin-right: 55%; 
-   
+    font-variant: small-caps;
+    font-size: 50px;
    @include responsive(wide-screens) {
      font-size: 48px;
     }
