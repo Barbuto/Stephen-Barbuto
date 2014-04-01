@@ -10,7 +10,10 @@
     
     color: $color-light;
   }
-
+  footer {
+      font-size: 8px;
+      color: $color-lighter;
+  }
   #container {
     width: 100%px;
     height: 600px;

@@ -80,6 +80,10 @@ li.facebook a {
 header {
   color: white; }
 
+footer {
+  font-size: 8px;
+  color: #b8b8b8; }
+
 #container {
   width: 100%px;
   height: 600px;
