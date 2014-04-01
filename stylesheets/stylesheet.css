@@ -106,6 +106,8 @@ footer {
 
 h1 {
   padding: 25px 0;
+  float: right;
+  margin-right: 61%;
   font-size: 54px;
   font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
   font-weight: bold;
@@ -119,3 +121,7 @@ h1 {
   @media only screen and (max-width: 500px) {
     h1 {
       font-size: 20px; } }
+  h1 h2 {
+    padding: 25px 0;
+    float: right;
+    margin-right: 55%; }
