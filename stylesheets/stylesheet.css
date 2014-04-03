@@ -147,6 +147,7 @@ h2 {
   width: 300px;
   border-right-style: ridge;
   font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
+  color: cadetblue;
   clear: both;
   position: absolute;
   top: 61%;
@@ -156,6 +157,7 @@ h2 {
 #design {
   width: 300px;
   font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
+  color: cadetblue;
   clear: both;
   position: absolute;
   top: 61%;
@@ -163,6 +165,7 @@ h2 {
   left: 45%; }
 
 #hobbies {
+  color: cadetblue;
   width: 300px;
   font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
   border-left-style: ridge;

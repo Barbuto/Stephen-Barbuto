@@ -89,7 +89,7 @@
      width: 300px;
      border-right-style: ridge;
      font-family: $font-sans;
- 
+     color: $button-color; 
         clear: both;
         position: absolute;
         top: 61%;
@@ -100,7 +100,7 @@
     #design{
         width: 300px;
         font-family: $font-sans;
-        
+        color: $button-color; 
         clear: both;
         position: absolute;
         top: 61%;
@@ -109,6 +109,7 @@
            
     }
     #hobbies{
+        color: $button-color; 
         width: 300px;
         font-family: $font-sans;
         border-left-style: ridge;
