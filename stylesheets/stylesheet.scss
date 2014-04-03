@@ -10,14 +10,18 @@
     color: $color-light;
   }
   footer {
-      .font{
+     
        font-family: $font-serif;
        font-size: 12px;
        color: $color-lighter;
-        }
-      .position{
         clear: both;
-      }
+        position: fixed;
+        clear: both;
+        text-align: center;
+        left: 39%;
+        bottom: 3%;
+        width: 300px;
+      
   }
   #billboard {
    background-position: 50% 55%; 
