@@ -145,7 +145,7 @@ h2 {
   clear: both;
   position: absolute;
   top: 407px;
-  bottom: 93px; }
+  bottom: 175px; }
 
 #design {
   width: 300px;
@@ -154,14 +154,14 @@ h2 {
   position: absolute;
   top: 407px;
   bottom: 93px;
-  left: 32px; }
+  left: 660pxpx; }
 
 #hobbies {
   width: 300px;
   font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
-  boarder-left-style: ridge;
+  border-left-style: ridge;
   clear: both;
   position: absolute;
   top: 407px;
   bottom: 93px;
-  left: 32px; }
+  left: 932px; }
