@@ -77,9 +77,6 @@ li.facebook a {
       -moz-background-size: 24px 24px;
       background-size: 24px 24px; } }
 
-body {
-  background: url(images/top-new.jpg) repeat; }
-
 header {
   color: white; }
 
@@ -98,32 +95,31 @@ footer {
   left: 0;
   overflow: hidden;
   background-size: 1363px 1180px; }
-  #billboard .background {
+  #billboard background {
     right: auto;
     left: 50%;
     margin-left: -732px;
     width: 1440px;
     background-size: 1363px 1180px; }
-  #billboard .pos {
+  #billboard pos {
     position: absolute; }
-
-h1 {
-  padding: 25px 0;
-  float: right;
-  margin-right: 61%;
-  font-size: 54px;
-  font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
-  font-weight: bold;
-  font-line-height: 1; }
-  @media only screen and (max-width: 1200px) {
-    h1 {
-      font-size: 48px; } }
-  @media only screen and (max-width: 800px) {
-    h1 {
-      font-size: 32px; } }
-  @media only screen and (max-width: 500px) {
-    h1 {
-      font-size: 20px; } }
+  #billboard h1 {
+    padding: 25px 0;
+    float: right;
+    margin-right: 61%;
+    font-size: 54px;
+    font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
+    font-weight: bold;
+    font-line-height: 1; }
+    @media only screen and (max-width: 1200px) {
+      #billboard h1 {
+        font-size: 48px; } }
+    @media only screen and (max-width: 800px) {
+      #billboard h1 {
+        font-size: 32px; } }
+    @media only screen and (max-width: 500px) {
+      #billboard h1 {
+        font-size: 20px; } }
 
 h2 {
   float: right;

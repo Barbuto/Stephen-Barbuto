@@ -3,7 +3,7 @@
 @import "resize.scss";
 
   body{
-    background: url(images/top-new.jpg) repeat; 
+  
 
   }
   header {
@@ -24,17 +24,17 @@
    left: 0;
    overflow: hidden;
    background-size: 1363px 1180px;
-   .background{
+   background{
       right: auto;
       left: 50%;
       margin-left: -732px;
       width: 1440px;
       background-size: 1363px 1180px;
    }
-   .pos{
+   pos{
       position: absolute;
    } 
-  }
+  
 
   h1 {
     padding: 25px 0;
@@ -56,7 +56,8 @@
     
     @include responsive(small-screens) {
       font-size: 20px;
-    } 
+      } 
+    }
    } 
   h2 {
     float: right;
