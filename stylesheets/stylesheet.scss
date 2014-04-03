@@ -10,13 +10,13 @@
     color: $color-light;
   }
   footer {
-      font{
-      family: $font-serif;
-      font-size: 12px;
-      color: $color-lighter;
-      }
-    position{
-      clear: both;
+      .font{
+       font-family: $font-serif;
+       font-size: 12px;
+       color: $color-lighter;
+        }
+      .position{
+        clear: both;
       }
   }
   #billboard {
@@ -36,7 +36,7 @@
       width: 1440px;
       background-size: 1363px 1180px;
    }
-   pos{
+   .pos{
       position: absolute;
    } 
   
