@@ -141,9 +141,8 @@ h2 {
 #web {
   width: 300px;
   border-right-style: groove;
-  font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif"; }
-  #web .pos {
-    clear: both;
-    position: absolute;
-    top: 407px;
-    bottom: 93px; }
+  font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
+  clear: both;
+  position: absolute;
+  top: 407px;
+  bottom: 93px; }
