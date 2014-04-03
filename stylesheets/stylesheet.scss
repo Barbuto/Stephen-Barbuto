@@ -83,7 +83,7 @@
     }
     #web{
      width: 300px;
-     border-right-style: groove;
+     border-right-style: ridge;
      font-family: $font-sans;
  
         clear: both;
@@ -93,7 +93,15 @@
            
     }
     #design{
-
+        width: 300px;
+        font-family: $font-sans;
+       
+        clear: both;
+        position: absolute;
+        top: 407px;
+        bottom: 93px;
+        position: 50% 55%;
+           
     }
     #hobbies{
 

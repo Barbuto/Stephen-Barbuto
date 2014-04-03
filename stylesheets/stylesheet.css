@@ -140,9 +140,18 @@ h2 {
 
 #web {
   width: 300px;
-  border-right-style: groove;
+  border-right-style: ridge;
   font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
   clear: both;
   position: absolute;
   top: 407px;
   bottom: 93px; }
+
+#design {
+  width: 300px;
+  font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
+  clear: both;
+  position: absolute;
+  top: 407px;
+  bottom: 93px;
+  position: 50% 55%; }
