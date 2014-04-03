@@ -10,9 +10,14 @@
     color: $color-light;
   }
   footer {
-      clear: both;
+      font{
+      family: $font-serif;
       font-size: 12px;
       color: $color-lighter;
+      }
+    position{
+      clear: both;
+      }
   }
   #billboard {
    background-position: 50% 55%; 
