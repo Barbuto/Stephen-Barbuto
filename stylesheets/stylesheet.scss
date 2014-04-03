@@ -95,16 +95,23 @@
     #design{
         width: 300px;
         font-family: $font-sans;
-       
+        
         clear: both;
         position: absolute;
         top: 407px;
         bottom: 93px;
-        position: 50% 55%;
+        left: 32px;
            
     }
     #hobbies{
-
+        width: 300px;
+        font-family: $font-sans;
+        boarder-left-style: ridge;
+        clear: both;
+        position: absolute;
+        top: 407px;
+        bottom: 93px;
+        left: 32px;
     }
 
 
