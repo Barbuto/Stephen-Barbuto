@@ -145,7 +145,8 @@ h2 {
   clear: both;
   position: absolute;
   top: 407px;
-  bottom: 175px; }
+  bottom: 93px;
+  left: 150px; }
 
 #design {
   width: 300px;
@@ -154,7 +155,7 @@ h2 {
   position: absolute;
   top: 407px;
   bottom: 93px;
-  left: 660px; }
+  left: 600px; }
 
 #hobbies {
   width: 300px;
