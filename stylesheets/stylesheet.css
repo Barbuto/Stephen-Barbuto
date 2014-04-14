@@ -197,3 +197,6 @@ h2 {
     left: 57%;
     padding: 15px;
     font-size: 15px; }
+
+#media img {
+  size: 10% 20%; }
