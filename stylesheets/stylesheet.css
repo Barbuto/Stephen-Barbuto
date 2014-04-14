@@ -154,7 +154,7 @@ h2 {
   bottom: 10%;
   left: 8%; }
   #web img {
-    width: 38%;
+    width: 36%;
     position: relative;
     left: 13%; }
 
@@ -166,7 +166,7 @@ h2 {
   position: absolute;
   top: 61%;
   bottom: 10%;
-  left: 45%; }
+  left: 42%; }
   #design img {
     width: 38%;
     position: relative;
@@ -183,6 +183,10 @@ h2 {
   bottom: 10%;
   left: 66%;
   padding-left: 115px; }
+  #hobbies img {
+    width: 38%;
+    position: relative;
+    left: 13%; }
 
 #me {
   position: absolute;
