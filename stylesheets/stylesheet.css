@@ -154,8 +154,9 @@ h2 {
   bottom: 10%;
   left: 8%; }
   #web img {
-    width: 15%;
-    position: absolute; }
+    width: 38%;
+    position: relative;
+    left: 13%; }
 
 #design {
   width: 300px;
