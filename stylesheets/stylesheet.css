@@ -181,3 +181,7 @@ h2 {
   top: 100%;
   bottom: 30%;
   left: 55%; }
+  #me img {
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px; }
