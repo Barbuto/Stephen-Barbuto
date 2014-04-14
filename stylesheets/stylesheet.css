@@ -192,4 +192,8 @@ h2 {
     right: 28%;
     top: 6%; }
   #me p {
-    font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif"; }
+    font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
+    position: relative;
+    left: 57%;
+    padding: 15px;
+    font-size: 15px; }
