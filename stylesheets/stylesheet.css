@@ -83,9 +83,9 @@ header {
 footer {
   font-family: "Jubilat", "Gorgia", "Serif";
   font-size: 12px;
-  color: #b8b8b8;
+  color: #746565;
   clear: both;
-  position: fixed;
+  position: absolute;
   clear: both;
   text-align: center;
   left: 39%;
