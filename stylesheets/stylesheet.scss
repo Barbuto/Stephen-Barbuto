@@ -124,8 +124,9 @@
       position: absolute;
       top: 100%;
       bottom: 30%;
-      left: 55%;
+      left: 40%;
         img {
+        width: 40%;  
         @include rounded( 120px); 
       }
       }

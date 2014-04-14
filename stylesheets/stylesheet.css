@@ -180,8 +180,9 @@ h2 {
   position: absolute;
   top: 100%;
   bottom: 30%;
-  left: 55%; }
+  left: 40%; }
   #me img {
+    width: 40%;
     -webkit-border-radius: 120px;
     -moz-border-radius: 120px;
     border-radius: 120px; }
