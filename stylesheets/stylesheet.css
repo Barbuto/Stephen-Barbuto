@@ -167,6 +167,10 @@ h2 {
   top: 61%;
   bottom: 10%;
   left: 45%; }
+  #design img {
+    width: 38%;
+    position: relative;
+    left: 13%; }
 
 #hobbies {
   color: black;
