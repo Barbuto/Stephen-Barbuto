@@ -199,4 +199,5 @@ h2 {
     font-size: 15px; }
 
 #media img {
+  position: absolute;
   width: 20px; }
