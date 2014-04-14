@@ -128,12 +128,13 @@
         img {
         width: 40%;  
         @include rounded( 120px); 
+      }
         h3{
           position: absolute;
           right: 28%;
           top: 6%;
         }
-      }
+      
       }
 
 
