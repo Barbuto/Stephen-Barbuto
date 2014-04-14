@@ -124,12 +124,13 @@
       position: absolute;
       top: 100%;
       bottom: 30%;
-      left: 40%;
+      left: 30%;
         img {
         width: 40%;  
         @include rounded( 120px); 
       }
         h3{
+          font-family: $font-sans;
           position: absolute;
           right: 28%;
           top: 6%;
