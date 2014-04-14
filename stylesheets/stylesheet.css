@@ -186,3 +186,7 @@ h2 {
     -webkit-border-radius: 120px;
     -moz-border-radius: 120px;
     border-radius: 120px; }
+    #me img h3 {
+      position: absolute;
+      right: 28%;
+      top: 6%; }
