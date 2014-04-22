@@ -185,8 +185,10 @@
         a { font-weight: bold;
              text-decoration: none;
              color: $color-light;  
-
-        }
+        a.hover{
+          text-decoration: underline;
+        }     
+    }
   }
 }
     
