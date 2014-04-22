@@ -236,5 +236,5 @@ h2 {
       font-weight: bold;
       text-decoration: none;
       color: white; }
-      #navbar li a a:hover {
-        text: underline; }
+    #navbar li a:hover {
+      text-decoration: underline; }

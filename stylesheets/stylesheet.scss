@@ -184,11 +184,15 @@
               float: left;
         a { font-weight: bold;
              text-decoration: none;
-             color: $color-light;  
+             color: $color-light; 
+             } 
            a:hover{
-             text: underline;
-        }     
-    }
+              text-decoration: underline;
+              }
+            a:active{
+                
+               }        
+    
   }
 }
     
