@@ -167,8 +167,9 @@
       }
 /*nav bar*/
     #navbar {
-             width: 80%;
-            height: 23px;
+            position:fixed; 
+             width: 100%;
+            height: 85px;
             background-color: $color-main;
 
       ul { list-style-type: none; }

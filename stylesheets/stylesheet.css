@@ -217,8 +217,9 @@ h2 {
 
 /*nav bar*/
 #navbar {
-  width: 80%;
-  height: 23px;
+  position: fixed;
+  width: 100%;
+  height: 85px;
   background-color: #3f745c; }
   #navbar ul {
     list-style-type: none; }
