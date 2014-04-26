@@ -217,6 +217,7 @@ h2 {
 
 /*nav bar*/
 #navbar {
+  font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
   top: 0;
   left: 0;
   position: fixed;
