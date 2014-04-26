@@ -260,3 +260,7 @@ h2 {
   height: 70px;
   top: 3px;
   left: -1px; }
+
+#navimg {
+  position: fixed;
+  width: 50%; }
