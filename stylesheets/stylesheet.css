@@ -231,7 +231,7 @@ h2 {
     width: 50px;
     top: 8px;
     left: 9px; }
-  #navbar circle {
+  #navbar cir {
     background-color: #3f745c;
     position: fixed;
     -webkit-border-radius: 60px;
