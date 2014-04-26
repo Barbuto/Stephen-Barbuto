@@ -214,30 +214,37 @@
           top: 3px;
           left: -1px;
         }
-    #navimg{
-      position: fixed;
-      .img{
-        width: 2%;        
-      }
-    }
+
       #img1{
-         position: fixed;
+        img{
+        width:2%;
+        position: fixed;
         left: 87%;
-        top: 5px;    
+        top: 5px; 
+        }   
       }
       #img2{
-         position: fixed;
+        img{
+        width: 2%;
+        position: fixed;
         left: 88%;
-        top: 5px;  
+        top: 5px;
+        }  
       }
       #img3{
-         position: fixed;
+        img{
+        width:2%;
+        position: fixed;        
         left: 89%;
         top: 5px;  
+        }
       }
       #img4{
-         position: fixed;
+        img{
+        width: 2%;   
+        position: fixed;
         left: 90%;
-        top: 5px;  
+        top: 5px; 
+        } 
       }
     

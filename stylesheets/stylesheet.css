@@ -261,27 +261,26 @@ h2 {
   top: 3px;
   left: -1px; }
 
-#navimg {
-  position: fixed; }
-  #navimg .img {
-    width: 2%; }
-
-#img1 {
+#img1 img {
+  width: 2%;
   position: fixed;
   left: 87%;
   top: 5px; }
 
-#img2 {
+#img2 img {
+  width: 2%;
   position: fixed;
   left: 88%;
   top: 5px; }
 
-#img3 {
+#img3 img {
+  width: 2%;
   position: fixed;
   left: 89%;
   top: 5px; }
 
-#img4 {
+#img4 img {
+  width: 2%;
   position: fixed;
   left: 90%;
   top: 5px; }
