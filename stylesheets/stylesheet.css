@@ -222,8 +222,8 @@ h2 {
   left: 0;
   position: fixed;
   width: 100%;
-  height: 49px;
-  background-color: #3f745c; }
+  height: 47px;
+  background-color: black; }
   #navbar img {
     position: fixed;
     -webkit-border-radius: 60px;
@@ -251,7 +251,7 @@ h2 {
       text-decoration: underline; }
 
 #cir {
-  background-color: #3f745c;
+  background-color: black;
   position: fixed;
   -webkit-border-radius: 60px;
   -moz-border-radius: 60px;
