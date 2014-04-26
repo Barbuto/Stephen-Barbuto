@@ -217,6 +217,12 @@
     #navimg{
       position: fixed;
       img{
-      width: 50%;
+        width: 2%;
+        position: fixed;
+        left: 87%;
+        top: 5px;        
+      }
+      li{
+        margin-right: 5px;
       }
     }

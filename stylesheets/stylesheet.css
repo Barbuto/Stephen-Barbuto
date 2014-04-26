@@ -264,4 +264,9 @@ h2 {
 #navimg {
   position: fixed; }
   #navimg img {
-    width: 50%; }
+    width: 2%;
+    position: fixed;
+    left: 87%;
+    top: 5px; }
+  #navimg li {
+    margin-right: 5px; }
