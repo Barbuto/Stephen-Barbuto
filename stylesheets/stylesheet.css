@@ -231,16 +231,6 @@ h2 {
     width: 50px;
     top: 8px;
     left: 9px; }
-  #navbar cir {
-    background-color: #3f745c;
-    position: fixed;
-    -webkit-border-radius: 60px;
-    -moz-border-radius: 60px;
-    border-radius: 60px;
-    width: 70px;
-    height: 70px;
-    top: 8px;
-    left: 9px; }
   #navbar ul {
     list-style-type: none; }
   #navbar li {
@@ -256,3 +246,14 @@ h2 {
       color: white; }
     #navbar li a:hover {
       text-decoration: underline; }
+
+#cir {
+  background-color: #3f745c;
+  position: fixed;
+  -webkit-border-radius: 60px;
+  -moz-border-radius: 60px;
+  border-radius: 60px;
+  width: 70px;
+  height: 70px;
+  top: 8px;
+  left: 9px; }

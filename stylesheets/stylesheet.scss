@@ -180,15 +180,7 @@
         top: 8px;
         left: 9px;
       }        
-      cir{
-          background-color: $color-main;
-          position: fixed;
-          @include rounded( 60px);
-          width: 70px;
-          height: 70px;
-          top: 8px;
-          left: 9px;
-        }
+      
       ul { list-style-type: none; }
         li {
               padding-left: 9px;
@@ -210,4 +202,13 @@
     
   }
 }
+      #cir{
+          background-color: $color-main;
+          position: fixed;
+          @include rounded( 60px);
+          width: 70px;
+          height: 70px;
+          top: 8px;
+          left: 9px;
+        }
     
