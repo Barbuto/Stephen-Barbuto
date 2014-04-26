@@ -265,7 +265,7 @@ h2 {
   position: fixed; }
   #navimg img {
     width: 2%; }
-  #navimg .img1 {
+  #navimg #img1 {
     position: fixed;
     left: 87%;
     top: 5px; }
