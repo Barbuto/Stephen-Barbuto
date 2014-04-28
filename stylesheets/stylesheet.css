@@ -132,6 +132,7 @@ h2 {
   float: right;
   margin-right: 47%;
   font-variant: small-caps;
+  font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
   font-size: 30px; }
   @media only screen and (max-width: 1200px) {
     h2 {
@@ -188,6 +189,7 @@ h2 {
     position: relative;
     left: 13%; }
 
+/* About me homepage */
 #me {
   position: absolute;
   top: 100%;
@@ -215,6 +217,7 @@ h2 {
   width: 13%;
   left: 71%; }
 
+/*end home page about me */
 /*nav bar*/
 #navbar {
   font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
@@ -284,3 +287,6 @@ h2 {
   position: fixed;
   left: 95%;
   top: 5px; }
+
+/* end nav */
+/* profolio format*/
