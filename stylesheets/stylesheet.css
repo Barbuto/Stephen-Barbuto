@@ -293,7 +293,7 @@ h2 {
 /* styling for the image wrapper  */
 #image_wrap {
   /* dimensions */
-  width: 100%px;
+  width: 100%;
   padding: 15px 0;
   /* centered */
   text-align: center;
