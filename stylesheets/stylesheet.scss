@@ -24,6 +24,7 @@
       
   }
   #billboard {
+   @include linear-gradient(0%, 100%);
    background-position: 50% 55%; 
    background-color: $color-main;
    position: absolute;

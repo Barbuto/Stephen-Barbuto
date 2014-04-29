@@ -93,6 +93,20 @@ footer {
   width: 300px; }
 
 #billboard {
+  /*Fall Back from browsers*/
+  background-color: 100%;
+  /*Monzilla Firefox*/
+  background-image: -moz-linear-gradient(0%, 100%);
+  /*Opera*/
+  background-image: 0 -linear-gradient(0%, 100%);
+  /*webkit (Safari 4+, Chrome 1+)*/
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, 0%), color-stop(1, 100%));
+  /*webkit chrome 11+*/
+  background-image: -ms-linear-gradient(0%, 100%);
+  /*IE10*/
+  background-image: -ms-linear-gradient(0%, 100%);
+  /*W3C*/
+  background-image: linear-gradient(0%, 100%);
   background-position: 50% 55%;
   background-color: #3f745c;
   position: absolute;
