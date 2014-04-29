@@ -94,19 +94,19 @@ footer {
 
 #billboard {
   /*Fall Back from browsers*/
-  background-color: 100%;
+  background-color: white;
   /*Monzilla Firefox*/
-  background-image: -moz-linear-gradient(0%, 100%);
+  background-image: -moz-linear-gradient(#3f745c, white);
   /*Opera*/
-  background-image: 0 -linear-gradient(0%, 100%);
+  background-image: 0 -linear-gradient(#3f745c, white);
   /*webkit (Safari 4+, Chrome 1+)*/
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, 0%), color-stop(1, 100%));
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #3f745c), color-stop(1, white));
   /*webkit chrome 11+*/
-  background-image: -ms-linear-gradient(0%, 100%);
+  background-image: -ms-linear-gradient(#3f745c, white);
   /*IE10*/
-  background-image: -ms-linear-gradient(0%, 100%);
+  background-image: -ms-linear-gradient(#3f745c, white);
   /*W3C*/
-  background-image: linear-gradient(0%, 100%);
+  background-image: linear-gradient(#3f745c, white);
   background-position: 50% 55%;
   background-color: #3f745c;
   position: absolute;
