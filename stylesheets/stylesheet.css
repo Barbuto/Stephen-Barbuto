@@ -304,12 +304,12 @@ h2 {
 /* end nav */
 /* profolio Web format*/
 #imageweb {
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  border-radius: 5px;
+  -webkit-border-radius: 13px;
+  -moz-border-radius: 13px;
+  border-radius: 13px;
   position: relative;
   background-color: blue;
-  width: 424px;
+  width: 532px;
   height: 311px;
   top: 23px;
   left: 20px; }
@@ -325,3 +325,11 @@ h2 {
   top: 96px;
   left: 168px;
   display: inline-block; }
+
+#imgbuttonweb {
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  border-radius: 16px;
+  width: 15px;
+  height: 15px;
+  background-color: red; }

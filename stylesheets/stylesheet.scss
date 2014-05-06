@@ -255,10 +255,10 @@
 /* end nav */    
 /* profolio Web format*/
 #imageweb{
-  @include rounded(5px);
+  @include rounded(13px);
   position: relative;
   background-color: blue;
-  width: 424px;
+  width: 532px;
   height: 311px;
   top: 23px;
   left: 20px;
@@ -273,5 +273,12 @@
   top: 96px;
   left: 168px;
   display: inline-block;
+
+  }
+  #imgbuttonweb{
+     @include rounded(16px);
+     width: 15px;
+     height: 15px;
+     background-color: red;
 
   }
