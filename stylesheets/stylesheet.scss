@@ -282,17 +282,7 @@
      background-color: red;
      position: relative;
      bottom: 276px;
-     right: 109px;
-     float: right;
-  }
-    #imgbuttonweb3{
-     @include rounded(8px);
-     width: 82px;
-     height: 102px;
-     background-color: red;
-     position: relative;
-     bottom: 276px;
-     right: 74px;
+     right: 50px;
      float: right;
   }
     #imgbuttonweb2{
@@ -302,7 +292,17 @@
      background-color: red;
      position: relative;
      bottom: 276px;
-     right: 42px;
+     right: 85px;
+     float: right;
+  }
+    #imgbuttonweb3{
+     @include rounded(8px);
+     width: 82px;
+     height: 102px;
+     background-color: red;
+     position: relative;
+     bottom: 276px;
+     right: 123px;
      float: right;
   }
 #imgbuttonweb4{
@@ -312,7 +312,7 @@
      background-color: red;
      position: relative;
      bottom: 123px;
-     right: 62px;
+     left: 23px;
      float: right;
   }
   #imgbuttonweb5{
@@ -322,6 +322,6 @@
      background-color: red;
      position: relative;
      bottom: 123px;
-     left: 31px;
+     left: 227px;
      float: right;
   }
