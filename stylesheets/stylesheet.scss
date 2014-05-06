@@ -261,6 +261,12 @@
 }
 #webcontainer{
   background-color: yellow;
+  width: 78%;
+  @include rounded(36px);
+  height: 80%;
+  position: fixed;
+  top: 80px;
+  left: 151px;
 }
 
   
