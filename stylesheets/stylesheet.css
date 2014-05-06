@@ -307,16 +307,21 @@ h2 {
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
-  width: 50%;
-  background-color: blue; }
+  position: relative;
+  background-color: blue;
+  width: 424px;
+  height: 311px;
+  top: 23px;
+  left: 20px; }
 
 #webcontainer {
   background-color: #66BEBE;
-  width: 78%;
+  width: 1000px;
   -webkit-border-radius: 36px;
   -moz-border-radius: 36px;
   border-radius: 36px;
-  height: 80%;
-  position: fixed;
-  top: 80px;
-  left: 151px; }
+  height: 367px;
+  position: relative;
+  top: 96px;
+  left: 168px;
+  display: inline-block; }

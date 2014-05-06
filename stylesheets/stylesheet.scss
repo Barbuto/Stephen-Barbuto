@@ -256,17 +256,22 @@
 /* profolio Web format*/
 #imageweb{
   @include rounded(5px);
-  width: 50%;
+  position: relative;
   background-color: blue;
+  width: 424px;
+  height: 311px;
+  top: 23px;
+  left: 20px;
+
 }
 #webcontainer{
   background-color: #66BEBE;
-  width: 78%;
+  width: 1000px;
   @include rounded(36px);
-  height: 80%;
-  position: fixed;
-  top: 80px;
-  left: 151px;
-}
+  height: 367px;
+  position: relative;
+  top: 96px;
+  left: 168px;
+  display: inline-block;
 
-  
+  }
