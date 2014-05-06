@@ -326,10 +326,38 @@ h2 {
   left: 168px;
   display: inline-block; }
 
-#imgbuttonweb {
-  -webkit-border-radius: 16px;
-  -moz-border-radius: 16px;
-  border-radius: 16px;
-  width: 15px;
-  height: 15px;
-  background-color: red; }
+#imgbuttonweb1 {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  width: 82px;
+  height: 102px;
+  background-color: red;
+  position: relative;
+  bottom: 276px;
+  right: 313px;
+  float: right; }
+
+#imgbuttonweb3 {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  width: 82px;
+  height: 102px;
+  background-color: red;
+  position: relative;
+  bottom: 276px;
+  right: 313px;
+  float: right; }
+
+#imgbuttonweb2 {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  width: 82px;
+  height: 102px;
+  background-color: red;
+  position: relative;
+  bottom: 276px;
+  right: 313px;
+  float: right; }

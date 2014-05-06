@@ -275,10 +275,33 @@
   display: inline-block;
 
   }
-  #imgbuttonweb{
-     @include rounded(16px);
-     width: 15px;
-     height: 15px;
+  #imgbuttonweb1{
+     @include rounded(8px);
+     width: 82px;
+     height: 102px;
      background-color: red;
-
+     position: relative;
+     bottom: 276px;
+     right: 313px;
+     float: right;
+  }
+    #imgbuttonweb3{
+     @include rounded(8px);
+     width: 82px;
+     height: 102px;
+     background-color: red;
+     position: relative;
+     bottom: 276px;
+     right: 313px;
+     float: right;
+  }
+    #imgbuttonweb2{
+     @include rounded(8px);
+     width: 82px;
+     height: 102px;
+     background-color: red;
+     position: relative;
+     bottom: 276px;
+     right: 313px;
+     float: right;
   }
