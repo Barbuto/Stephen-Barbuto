@@ -78,7 +78,7 @@ li.facebook a {
       background-size: 24px 24px; } }
 
 header {
-  color: white; }
+  color: black; }
 
 footer {
   font-family: "Jubilat", "Gorgia", "Serif";
@@ -302,4 +302,13 @@ h2 {
   top: 5px; }
 
 /* end nav */
-/* profolio format*/
+/* profolio Web format*/
+#imageweb {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 50%;
+  background-color: blue; }
+
+#webcontainer {
+  background-color: yellow; }

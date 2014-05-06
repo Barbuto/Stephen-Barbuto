@@ -7,7 +7,7 @@
 
   }
   header {
-    color: $color-light;
+    color: black;
   }
   footer {
      
@@ -253,5 +253,14 @@
         } 
       }
 /* end nav */    
-/* profolio format*/
+/* profolio Web format*/
+#imageweb{
+  @include rounded(5px);
+  width: 50%;
+  background-color: blue;
+}
+#webcontainer{
+  background-color: yellow;
+}
+
   
