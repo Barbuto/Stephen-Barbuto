@@ -324,12 +324,13 @@ h2 {
   position: relative;
   top: 96px;
   left: 168px;
-  display: inline-block; }
+  display: inline-block;
+  opacity: 50%; }
 
 #imgbuttonweb1 {
-  -webkit-border-radius: 8px;
-  -moz-border-radius: 8px;
-  border-radius: 8px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
   width: 82px;
   height: 102px;
   background-color: red;
@@ -339,9 +340,9 @@ h2 {
   float: right; }
 
 #imgbuttonweb2 {
-  -webkit-border-radius: 8px;
-  -moz-border-radius: 8px;
-  border-radius: 8px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
   width: 82px;
   height: 102px;
   background-color: red;
@@ -351,9 +352,9 @@ h2 {
   float: right; }
 
 #imgbuttonweb3 {
-  -webkit-border-radius: 8px;
-  -moz-border-radius: 8px;
-  border-radius: 8px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
   width: 82px;
   height: 102px;
   background-color: red;
@@ -363,9 +364,9 @@ h2 {
   float: right; }
 
 #imgbuttonweb4 {
-  -webkit-border-radius: 8px;
-  -moz-border-radius: 8px;
-  border-radius: 8px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
   width: 82px;
   height: 102px;
   background-color: red;
@@ -375,9 +376,9 @@ h2 {
   float: right; }
 
 #imgbuttonweb5 {
-  -webkit-border-radius: 8px;
-  -moz-border-radius: 8px;
-  border-radius: 8px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
   width: 82px;
   height: 102px;
   background-color: red;

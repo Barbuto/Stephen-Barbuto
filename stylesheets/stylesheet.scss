@@ -273,10 +273,11 @@
   top: 96px;
   left: 168px;
   display: inline-block;
+  opacity: 50%
 
   }
   #imgbuttonweb1{
-     @include rounded(8px);
+     @include rounded(5px);
      width: 82px;
      height: 102px;
      background-color: red;
@@ -286,7 +287,7 @@
      float: right;
   }
     #imgbuttonweb2{
-     @include rounded(8px);
+     @include rounded(5px);
      width: 82px;
      height: 102px;
      background-color: red;
@@ -296,7 +297,7 @@
      float: right;
   }
     #imgbuttonweb3{
-     @include rounded(8px);
+     @include rounded(5px);
      width: 82px;
      height: 102px;
      background-color: red;
@@ -306,7 +307,7 @@
      float: right;
   }
 #imgbuttonweb4{
-     @include rounded(8px);
+     @include rounded(5px);
      width: 82px;
      height: 102px;
      background-color: red;
@@ -316,7 +317,7 @@
      float: right;
   }
   #imgbuttonweb5{
-     @include rounded(8px);
+     @include rounded(5px);
      width: 82px;
      height: 102px;
      background-color: red;
