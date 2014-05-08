@@ -302,6 +302,8 @@
       width:200px;
       height: 120px;
       border-color: #b8adad;
+      hover{ opacity: 0.5;
+      }
     }
      @include rounded(5px);
      width: 82px;
