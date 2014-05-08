@@ -302,11 +302,11 @@
       width:200px;
       height: 120px;
       border-color: #b8adad;
-      a{
+      a{}
       a:hover{ opacity: 0.5;
       }
     }
-    }
+    
      @include rounded(5px);
      width: 82px;
      height: 102px;
