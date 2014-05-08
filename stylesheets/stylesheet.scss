@@ -303,7 +303,9 @@
       height: 120px;
       border-color: #b8adad;
       a{}
-      a:hover{ opacity: 0.5;
+      a:hover{ 
+        background-color: #b8adad;
+        opacity: 0.2;
       }
     }
     
