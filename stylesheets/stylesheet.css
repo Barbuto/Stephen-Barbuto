@@ -327,64 +327,80 @@ h2 {
   display: inline-block;
   opacity: 50%; }
 
-img {
-  width: 200px;
-  height: 120px; }
-  img #imgbuttonweb1 {
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-    width: 82px;
-    height: 102px;
-    background-color: red;
-    position: relative;
-    bottom: 276px;
-    right: 50px;
-    float: right; }
-  img #imgbuttonweb2 {
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-    width: 82px;
-    height: 102px;
-    background-color: red;
-    position: relative;
-    bottom: 276px;
-    right: 85px;
-    float: right; }
-  img #imgbuttonweb3 {
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-    width: 82px;
-    height: 102px;
-    background-color: red;
-    position: relative;
-    bottom: 276px;
-    right: 123px;
-    float: right; }
-  img #imgbuttonweb4 {
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-    width: 82px;
-    height: 102px;
-    background-color: red;
-    position: relative;
-    bottom: 123px;
-    left: 23px;
-    float: right; }
-  img #imgbuttonweb5 {
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-    width: 82px;
-    height: 102px;
-    background-color: red;
-    position: relative;
-    bottom: 123px;
-    left: 227px;
-    float: right; }
+#imgbuttonweb1 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 82px;
+  height: 102px;
+  background-color: red;
+  position: relative;
+  bottom: 276px;
+  right: 50px;
+  float: right; }
+  #imgbuttonweb1 img {
+    width: 200px;
+    height: 120px; }
+
+#imgbuttonweb2 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 82px;
+  height: 102px;
+  background-color: red;
+  position: relative;
+  bottom: 276px;
+  right: 85px;
+  float: right; }
+  #imgbuttonweb2 img {
+    width: 200px;
+    height: 120px; }
+
+#imgbuttonweb3 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 82px;
+  height: 102px;
+  background-color: red;
+  position: relative;
+  bottom: 276px;
+  right: 123px;
+  float: right; }
+  #imgbuttonweb3 img {
+    width: 200px;
+    height: 120px; }
+
+#imgbuttonweb4 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 82px;
+  height: 102px;
+  background-color: red;
+  position: relative;
+  bottom: 123px;
+  left: 23px;
+  float: right; }
+  #imgbuttonweb4 img {
+    width: 200px;
+    height: 120px; }
+
+#imgbuttonweb5 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 82px;
+  height: 102px;
+  background-color: red;
+  position: relative;
+  bottom: 123px;
+  left: 227px;
+  float: right; }
+  #imgbuttonweb5 img {
+    width: 200px;
+    height: 120px; }
 
 #buttoncontainer {
   background-color: black;

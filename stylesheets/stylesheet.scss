@@ -276,11 +276,13 @@
   opacity: 50%;
 
   }
-     img {
-      width:200px;
-      height: 120px;
+     
     
   #imgbuttonweb1{
+    img {
+      width:200px;
+      height: 120px;
+    }
      @include rounded(5px);
      width: 82px;
      height: 102px;
@@ -291,6 +293,10 @@
      float: right;
   }
     #imgbuttonweb2{
+     img {
+      width:200px;
+      height: 120px;
+    }
      @include rounded(5px);
      width: 82px;
      height: 102px;
@@ -301,6 +307,10 @@
      float: right;
   }
     #imgbuttonweb3{
+    img {
+      width:200px;
+      height: 120px;
+    }
      @include rounded(5px);
      width: 82px;
      height: 102px;
@@ -311,6 +321,10 @@
      float: right;
   }
 #imgbuttonweb4{
+  img {
+      width:200px;
+      height: 120px;
+    }
      @include rounded(5px);
      width: 82px;
      height: 102px;
@@ -321,6 +335,10 @@
      float: right;
   }
   #imgbuttonweb5{
+    img {
+      width:200px;
+      height: 120px;
+    }
      @include rounded(5px);
      width: 82px;
      height: 102px;
@@ -330,7 +348,7 @@
      left: 227px;
      float: right;
   }
-}
+
   #buttoncontainer{
     background-color: black;
     height: 367px;
