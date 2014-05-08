@@ -362,7 +362,7 @@ h2 {
     height: 120px;
     border-color: #b8adad; }
   #imgbuttonweb2 img.opacity {
-    opacity: 0.5;
+    opacity: 1.0;
     filter: alpha(opacity=50); }
   #imgbuttonweb2 img.opacity:hover {
     background-color: #b8adad;
