@@ -317,9 +317,9 @@ h2 {
 #webcontainer {
   background-color: #66BEBE;
   width: 1000px;
-  -webkit-border-radius: 36px;
-  -moz-border-radius: 36px;
-  border-radius: 36px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
   height: 367px;
   position: relative;
   top: 96px;
