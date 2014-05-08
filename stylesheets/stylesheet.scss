@@ -265,15 +265,15 @@
 
 }
 #webcontainer{
-  background-color: #66BEBE;
+  @include linear-gradient(#66BEBE, #FFF);
   width: 1000px;
   @include rounded(6px);
   height: 367px;
   position: relative;
   top: 96px;
-  left: 168px;
+  left: 150px;
   display: inline-block;
-  opacity: 50%;
+
 
   }
      

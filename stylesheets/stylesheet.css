@@ -315,7 +315,20 @@ h2 {
   left: 20px; }
 
 #webcontainer {
-  background-color: #66BEBE;
+  /*Fall Back from browsers*/
+  background-color: white;
+  /*Monzilla Firefox*/
+  background-image: -moz-linear-gradient(#66bebe, white);
+  /*Opera*/
+  background-image: 0 -linear-gradient(#66bebe, white);
+  /*webkit (Safari 4+, Chrome 1+)*/
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #66bebe), color-stop(1, white));
+  /*webkit chrome 11+*/
+  background-image: -ms-linear-gradient(#66bebe, white);
+  /*IE10*/
+  background-image: -ms-linear-gradient(#66bebe, white);
+  /*W3C*/
+  background-image: linear-gradient(#66bebe, white);
   width: 1000px;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
@@ -323,9 +336,8 @@ h2 {
   height: 367px;
   position: relative;
   top: 96px;
-  left: 168px;
-  display: inline-block;
-  opacity: 50%; }
+  left: 150px;
+  display: inline-block; }
 
 img.opacity {
   opacity: 1.0;
