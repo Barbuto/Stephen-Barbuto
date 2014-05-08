@@ -276,6 +276,10 @@
   opacity: 50%;
 
   }
+     img {
+      width:200px;
+      height: 120px;
+    
   #imgbuttonweb1{
      @include rounded(5px);
      width: 82px;
@@ -326,6 +330,7 @@
      left: 227px;
      float: right;
   }
+}
   #buttoncontainer{
     background-color: black;
     height: 367px;
