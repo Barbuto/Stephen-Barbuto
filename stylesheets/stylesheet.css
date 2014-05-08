@@ -304,15 +304,15 @@ h2 {
 /* end nav */
 /* profolio Web format*/
 #imageweb {
-  -webkit-border-radius: 13px;
-  -moz-border-radius: 13px;
-  border-radius: 13px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
   position: relative;
-  background-color: blue;
-  width: 532px;
-  height: 311px;
+  background-color: white;
+  width: 625px;
+  height: 315px;
   top: 23px;
-  left: 20px; }
+  margin-left: 181px; }
 
 #webcontainer {
   /*Fall Back from browsers*/
@@ -440,9 +440,3 @@ img.opacity:hover {
     width: 200px;
     height: 120px;
     border-color: #b8adad; }
-
-#buttoncontainer {
-  background-color: black;
-  height: 367px;
-  width: 100px;
-  position: relative; }

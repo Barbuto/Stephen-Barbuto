@@ -255,13 +255,13 @@
 /* end nav */    
 /* profolio Web format*/
 #imageweb{
-  @include rounded(13px);
+  @include rounded(10px);
   position: relative;
-  background-color: blue;
-  width: 532px;
-  height: 311px;
+  background-color: white;
+  width: 625px;
+  height: 315px;
   top: 23px;
-  left: 20px;
+  margin-left: 181px;
 
 }
 #webcontainer{
@@ -380,12 +380,8 @@
      float: right;
   }
 
-  #buttoncontainer{
-    background-color: black;
-    height: 367px;
-    width: 100px;
-    position: relative;
+
     
 
 
-  }
+  
