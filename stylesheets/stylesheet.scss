@@ -286,11 +286,9 @@
      @include rounded(5px);
      width: 82px;
      height: 102px;
-     background-color: red;
      position: relative;
-     bottom: 276px;
-     right: 50px;
-     float: right;
+     left: 340px;
+     top: 76px;
   }
     #imgbuttonweb2{
      img {
@@ -300,11 +298,10 @@
      @include rounded(5px);
      width: 82px;
      height: 102px;
-     background-color: red;
      position: relative;
-     bottom: 276px;
-     right: 85px;
-     float: right;
+     bottom: 125px;
+     left: 259px;
+     float: left;
   }
     #imgbuttonweb3{
     img {
@@ -314,10 +311,9 @@
      @include rounded(5px);
      width: 82px;
      height: 102px;
-     background-color: red;
      position: relative;
-     bottom: 276px;
-     right: 123px;
+     bottom: 226px;
+     right: 246px;
      float: right;
   }
 #imgbuttonweb4{
