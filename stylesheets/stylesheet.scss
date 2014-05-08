@@ -19,7 +19,7 @@
         clear: both;
         text-align: center;
         left: 39%;
-        top: 140%;
+        top: 180%;
         width: 300px;
       
   }
@@ -282,6 +282,10 @@
     img {
       width:200px;
       height: 120px;
+      border-bottom-style: double;
+      border-width: 1px;
+      border-color: #b8adad;
+      border-radius: 10px;
     }
      @include rounded(5px);
      width: 82px;
@@ -292,8 +296,12 @@
   }
     #imgbuttonweb2{
      img {
+      border-bottom-style: double;
+      border-width: 1px;
+      border-radius: 10px;
       width:200px;
       height: 120px;
+      border-color: #b8adad;
     }
      @include rounded(5px);
      width: 82px;
@@ -307,6 +315,12 @@
     img {
       width:200px;
       height: 120px;
+      border-bottom-style: double;
+      border-width: 1px;
+      border-radius: 10px;
+      width:200px;
+      height: 120px;
+      border-color: #b8adad;
     }
      @include rounded(5px);
      width: 82px;
@@ -320,6 +334,10 @@
   img {
       width:200px;
       height: 120px;
+      border-bottom-style: double;
+      border-width: 1px;
+      border-radius: 10px;
+      border-color: #b8adad;
     }
      @include rounded(5px);
      width: 82px;
@@ -332,8 +350,12 @@
   }
   #imgbuttonweb5{
     img {
+      border-bottom-style: double;
+      border-width: 1px;
+      border-radius: 10px;
       width:200px;
       height: 120px;
+      border-color: #b8adad;
     }
      @include rounded(5px);
      width: 82px;

@@ -89,7 +89,7 @@ footer {
   clear: both;
   text-align: center;
   left: 39%;
-  top: 140%;
+  top: 180%;
   width: 300px; }
 
 #billboard {
@@ -338,7 +338,11 @@ h2 {
   top: 76px; }
   #imgbuttonweb1 img {
     width: 200px;
-    height: 120px; }
+    height: 120px;
+    border-bottom-style: double;
+    border-width: 1px;
+    border-color: #b8adad;
+    border-radius: 10px; }
 
 #imgbuttonweb2 {
   -webkit-border-radius: 5px;
@@ -351,8 +355,12 @@ h2 {
   left: 259px;
   float: left; }
   #imgbuttonweb2 img {
+    border-bottom-style: double;
+    border-width: 1px;
+    border-radius: 10px;
     width: 200px;
-    height: 120px; }
+    height: 120px;
+    border-color: #b8adad; }
 
 #imgbuttonweb3 {
   -webkit-border-radius: 5px;
@@ -366,7 +374,13 @@ h2 {
   float: right; }
   #imgbuttonweb3 img {
     width: 200px;
-    height: 120px; }
+    height: 120px;
+    border-bottom-style: double;
+    border-width: 1px;
+    border-radius: 10px;
+    width: 200px;
+    height: 120px;
+    border-color: #b8adad; }
 
 #imgbuttonweb4 {
   -webkit-border-radius: 5px;
@@ -381,7 +395,11 @@ h2 {
   float: right; }
   #imgbuttonweb4 img {
     width: 200px;
-    height: 120px; }
+    height: 120px;
+    border-bottom-style: double;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: #b8adad; }
 
 #imgbuttonweb5 {
   -webkit-border-radius: 5px;
@@ -395,8 +413,12 @@ h2 {
   left: 227px;
   float: right; }
   #imgbuttonweb5 img {
+    border-bottom-style: double;
+    border-width: 1px;
+    border-radius: 10px;
     width: 200px;
-    height: 120px; }
+    height: 120px;
+    border-color: #b8adad; }
 
 #buttoncontainer {
   background-color: black;
