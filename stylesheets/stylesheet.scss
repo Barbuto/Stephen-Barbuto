@@ -277,7 +277,20 @@
 
   }
      
-    
+     img.opacity {
+      opacity: 1.0;
+      filter: alpha(opacity=50);
+        }
+
+      img.opacity:hover{ 
+        background-color: #b8adad;
+        opacity: 0.5;
+        filter: alpha(opacity=50);
+      }
+
+
+
+
   #imgbuttonweb1{
     img {
       width:200px;
@@ -302,18 +315,6 @@
       width:200px;
       height: 120px;
       border-color: #b8adad;}
-      
-      img.opacity {
-      opacity: 1.0;
-      filter: alpha(opacity=50);
-        }
-
-      img.opacity:hover{ 
-        background-color: #b8adad;
-        opacity: 0.5;
-        filter: alpha(opacity=50);
-      }
-    
     
      @include rounded(5px);
      width: 82px;
