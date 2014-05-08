@@ -361,9 +361,10 @@ h2 {
     width: 200px;
     height: 120px;
     border-color: #b8adad; }
-    #imgbuttonweb2 img a:hover {
-      background-color: #b8adad;
-      opacity: 0.2; }
+  #imgbuttonweb2 img.opacity:hover {
+    background-color: #b8adad;
+    opacity: 0.5;
+    filter: alpha(opacity=50); }
 
 #imgbuttonweb3 {
   -webkit-border-radius: 5px;
