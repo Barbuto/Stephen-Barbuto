@@ -521,3 +521,21 @@ img{
       border-radius: 10px;
     }
  } 
+
+#imgbuttongraphics7{
+  @include rounded(5px);
+  width: 82px;
+  height: 102px;
+  position: relative;
+  bottom: 184px;
+  right: 13px;
+  float: right;
+    img{
+      width: 250px;
+      height: 120px;
+      border-bottom-style: double;
+      border-width: 1px;
+      border-color: #b8adad;
+      border-radius: 10px;
+    }
+ } 
