@@ -547,3 +547,21 @@ img.opacity:hover {
     border-width: 1px;
     border-color: #b8adad;
     border-radius: 10px; }
+
+#imgbuttongraphics4 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 82px;
+  height: 102px;
+  position: relative;
+  bottom: 118px;
+  right: 246px;
+  float: right; }
+  #imgbuttongraphics4 img {
+    width: 163px;
+    height: 206px;
+    border-bottom-style: double;
+    border-width: 1px;
+    border-color: #b8adad;
+    border-radius: 10px; }
