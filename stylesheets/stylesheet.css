@@ -493,3 +493,21 @@ img.opacity:hover {
   top: 47px;
   display: inline-block;
   right: 0px; }
+
+#imgbuttongraphics1 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 82px;
+  height: 110px;
+  position: relative;
+  bottom: 366px;
+  float: right;
+  right: 270px; }
+  #imgbuttongraphics1 img {
+    width: 163px;
+    height: 206px;
+    border-bottom-style: double;
+    border-width: 1px;
+    border-color: #b8adad;
+    border-radius: 10px; }
