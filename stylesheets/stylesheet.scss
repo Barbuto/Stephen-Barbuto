@@ -434,5 +434,20 @@ img{
     border-radius: 10px;
     }
   }
-
-  
+#imgbuttongraphics2{
+    @include rounded(5px);
+     width: 82px;
+     height: 102px;
+     position: relative;
+     bottom: 226px;
+     right: 246px;
+     float: right;
+  img{
+    width: 207px;
+    height: 148px;
+    border-bottom-style: double;
+    border-width: 1px;
+    border-color: #b8adad;
+    border-radius: 10px;
+  }
+}  
