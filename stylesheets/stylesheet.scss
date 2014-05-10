@@ -10,12 +10,6 @@
     color: black;
   }
   footer {
-      .home{
-        top: 140%;
-      }   
-      .other{
-        top: 115%;
-      }
        font-family: $font-serif;
        font-size: 12px;
        color: $color-lighter;
@@ -24,7 +18,20 @@
         text-align: center;
         left: 39%;
         width: 300px;
+        top: 115%;
       
+  }
+
+  #footerhome{
+    font-family: $font-serif;
+       font-size: 12px;
+       color: $color-lighter;
+        clear: both;
+        position: absolute;
+        text-align: center;
+        left: 39%;
+        width: 300px;
+        top: 115%;
   }
 
   #billboard {

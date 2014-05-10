@@ -88,11 +88,19 @@ footer {
   position: absolute;
   text-align: center;
   left: 39%;
-  width: 300px; }
-  footer .home {
-    top: 140%; }
-  footer .other {
-    top: 115%; }
+  width: 300px;
+  top: 115%; }
+
+#footerhome {
+  font-family: "Jubilat", "Gorgia", "Serif";
+  font-size: 12px;
+  color: #746565;
+  clear: both;
+  position: absolute;
+  text-align: center;
+  left: 39%;
+  width: 300px;
+  top: 115%; }
 
 #billboard {
   /*Fall Back from browsers*/
