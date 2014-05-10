@@ -443,8 +443,8 @@ img{
      right: 246px;
      float: right;
   img{
-    width: 207px;
-    height: 148px;
+    width: 163px;
+    height: 206px;
     border-bottom-style: double;
     border-width: 1px;
     border-color: #b8adad;
@@ -459,6 +459,24 @@ img{
   position: relative;
   bottom: 118px;
   right: 246px;
+  float: right;
+    img{
+      width: 207px;
+      height: 148px;
+      border-bottom-style: double;
+      border-width: 1px;
+      border-color: #b8adad;
+      border-radius: 10px;
+    }
+ } 
+
+ #imgbuttongraphics4{
+  @include rounded(5px);
+  width: 82px;
+  height: 102px;
+  position: relative;
+  bottom: 118px;
+  right: 200px;
   float: right;
     img{
       width: 207px;
