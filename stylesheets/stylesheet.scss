@@ -397,7 +397,6 @@ img{
 #imagegraphics{
   @include rounded(10px);
   position: relative;
-  background-color: #FFF;
   width: 43%;
   height: 55%;
   top: 38px;
@@ -559,4 +558,7 @@ img{
  .imagegraphic2{
   width: 70%;
   margin-left: 100px;
+ }
+ .imagegraphic3{
+  
  }
