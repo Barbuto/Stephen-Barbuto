@@ -662,3 +662,40 @@ img.opacity:hover {
   width: 100%;
   height: 41%;
   margin-top: 100px; }
+
+/*3-D page*/
+#image3d {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  position: relative;
+  width: 43%;
+  height: 55%;
+  top: 38px;
+  margin-left: 80px; }
+  #image3d img {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px; }
+
+#container3d {
+  /*Fall Back from browsers*/
+  background-color: white;
+  /*Monzilla Firefox*/
+  background-image: -moz-linear-gradient(#850689, white);
+  /*Opera*/
+  background-image: 0 -linear-gradient(#850689, white);
+  /*webkit (Safari 4+, Chrome 1+)*/
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #850689), color-stop(1, white));
+  /*webkit chrome 11+*/
+  background-image: -ms-linear-gradient(#850689, white);
+  /*IE10*/
+  background-image: -ms-linear-gradient(#850689, white);
+  /*W3C*/
+  background-image: linear-gradient(#850689, white);
+  width: 100%;
+  height: 114%;
+  position: absolute;
+  top: 47px;
+  display: inline-block;
+  right: 0px; }

@@ -582,3 +582,24 @@ img{
   height: 41%;
   margin-top: 100px;
  }
+/*3-D page*/
+#image3d{
+  @include rounded(10px);
+  position: relative;
+  width: 43%;
+  height: 55%;
+  top: 38px;
+  margin-left: 80px;
+img{
+  @include rounded(10px);
+  }
+}
+#container3d{
+  @include linear-gradient(#850689, #FFF);
+  width: 100%;
+  height: 114%;
+  position: absolute; 
+  top: 47px;
+  display: inline-block;
+  right: 0px;
+  }
