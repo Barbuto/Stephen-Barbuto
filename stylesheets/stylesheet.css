@@ -455,7 +455,7 @@ img.opacity:hover {
     border-color: #b8adad; }
 
 /* Graphics pages */
-#imageweb {
+#imagegraphics {
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
@@ -465,14 +465,14 @@ img.opacity:hover {
   height: 49%;
   top: 35px;
   margin-left: 42px; }
-  #imageweb img {
+  #imagegraphics img {
     width: 100%;
     height: 100%;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px; }
 
-#webcontainer {
+#graphicscontainer {
   /*Fall Back from browsers*/
   background-color: white;
   /*Monzilla Firefox*/
