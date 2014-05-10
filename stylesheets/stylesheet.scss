@@ -394,7 +394,21 @@ img{
      float: right;
   }
 /* Graphics pages */
-#graphicscontainer{
+#imageweb{
+  @include rounded(10px);
+  position: relative;
+  background-color: #FFF;
+  width: 49%;
+  height: 49%;
+  top: 35px;
+  margin-left: 42px;
+img{
+  width: 100%;
+  height: 100%;
+  @include rounded(10px);
+  }
+}
+#webcontainer{
   @include linear-gradient(#850689, #FFF);
   width: 100%;
   height: 114%;

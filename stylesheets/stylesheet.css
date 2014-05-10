@@ -455,7 +455,24 @@ img.opacity:hover {
     border-color: #b8adad; }
 
 /* Graphics pages */
-#graphicscontainer {
+#imageweb {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  position: relative;
+  background-color: #FFF;
+  width: 49%;
+  height: 49%;
+  top: 35px;
+  margin-left: 42px; }
+  #imageweb img {
+    width: 100%;
+    height: 100%;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px; }
+
+#webcontainer {
   /*Fall Back from browsers*/
   background-color: white;
   /*Monzilla Firefox*/
