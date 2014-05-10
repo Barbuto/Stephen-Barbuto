@@ -619,3 +619,21 @@ img.opacity:hover {
     border-width: 1px;
     border-color: #b8adad;
     border-radius: 10px; }
+
+#imgbuttongraphics7 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 82px;
+  height: 102px;
+  position: relative;
+  bottom: 290px;
+  right: 787px;
+  float: left; }
+  #imgbuttongraphics7 img {
+    width: 280px;
+    height: 154px;
+    border-bottom-style: double;
+    border-width: 1px;
+    border-color: #b8adad;
+    border-radius: 10px; }
