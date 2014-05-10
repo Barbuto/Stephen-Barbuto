@@ -86,11 +86,13 @@ footer {
   color: #746565;
   clear: both;
   position: absolute;
-  clear: both;
   text-align: center;
   left: 39%;
-  top: 115%;
   width: 300px; }
+  footer .home {
+    top: 140%; }
+  footer .other {
+    top: 115%; }
 
 #billboard {
   /*Fall Back from browsers*/
