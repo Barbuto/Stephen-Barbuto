@@ -89,7 +89,7 @@ footer {
   clear: both;
   text-align: center;
   left: 39%;
-  top: 180%;
+  top: 115%;
   width: 300px; }
 
 #billboard {
@@ -310,7 +310,7 @@ h2 {
   position: relative;
   background-color: #FFF;
   width: 60%;
-  height: 70%;
+  height: 45%;
   top: 23px;
   margin-left: 264px; }
 
@@ -352,7 +352,7 @@ img.opacity:hover {
   width: 82px;
   height: 102px;
   position: relative;
-  left: 340px;
+  left: 545px;
   top: 76px; }
   #imgbuttonweb1 img {
     width: 200px;
