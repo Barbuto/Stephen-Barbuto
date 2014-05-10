@@ -523,8 +523,8 @@ img.opacity:hover {
   right: 246px;
   float: right; }
   #imgbuttongraphics2 img {
-    width: 163px;
-    height: 206px;
+    width: 207px;
+    height: 148px;
     border-bottom-style: double;
     border-width: 1px;
     border-color: #b8adad;
@@ -541,26 +541,8 @@ img.opacity:hover {
   right: 246px;
   float: right; }
   #imgbuttongraphics3 img {
-    width: 207px;
-    height: 148px;
-    border-bottom-style: double;
-    border-width: 1px;
-    border-color: #b8adad;
-    border-radius: 10px; }
-
-#imgbuttongraphics4 {
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  border-radius: 5px;
-  width: 82px;
-  height: 102px;
-  position: relative;
-  bottom: 118px;
-  right: 200px;
-  float: right; }
-  #imgbuttongraphics4 img {
-    width: 207px;
-    height: 148px;
+    width: 163px;
+    height: 206px;
     border-bottom-style: double;
     border-width: 1px;
     border-color: #b8adad;
