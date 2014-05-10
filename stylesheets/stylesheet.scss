@@ -262,7 +262,10 @@
   height: 45%;
   top: 23px;
   margin-left: 264px;
-
+img{
+  width: 60%;
+  height: 45%;
+}
 }
 #webcontainer{
   @include linear-gradient(#66BEBE, #FFF);

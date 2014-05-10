@@ -313,6 +313,9 @@ h2 {
   height: 45%;
   top: 23px;
   margin-left: 264px; }
+  #imageweb img {
+    width: 60%;
+    height: 45%; }
 
 #webcontainer {
   /*Fall Back from browsers*/
