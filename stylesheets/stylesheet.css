@@ -637,3 +637,8 @@ img.opacity:hover {
     border-width: 1px;
     border-color: #b8adad;
     border-radius: 10px; }
+
+.imagegraphic2 {
+  width: 70%;
+  margin-left: 100px;
+  height: 100%; }
