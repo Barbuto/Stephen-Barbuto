@@ -455,24 +455,7 @@ img.opacity:hover {
     border-color: #b8adad; }
 
 /* Graphics pages */
-#imageweb {
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 10px;
-  position: relative;
-  background-color: #FFF;
-  width: 60%;
-  height: 45%;
-  top: 23px;
-  margin-left: 264px; }
-  #imageweb img {
-    width: 100%;
-    height: 100%;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    border-radius: 10px; }
-
-#webcontainer {
+#graphicscontainer {
   /*Fall Back from browsers*/
   background-color: white;
   /*Monzilla Firefox*/
