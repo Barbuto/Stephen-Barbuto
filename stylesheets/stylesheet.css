@@ -465,7 +465,6 @@ img.opacity:hover {
   top: 38px;
   margin-left: 80px; }
   #imagegraphics img {
-    height: 100%;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px; }
@@ -635,6 +634,11 @@ img.opacity:hover {
     border-width: 1px;
     border-color: #b8adad;
     border-radius: 10px; }
+
+.imagegraphic1 {
+  height: 79%;
+  width: 100%;
+  margin-top: 35px; }
 
 .imagegraphic2 {
   width: 70%;

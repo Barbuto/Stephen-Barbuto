@@ -402,7 +402,6 @@ img{
   top: 38px;
   margin-left: 80px;
 img{
-  height: 100%;
   @include rounded(10px);
   }
 }
@@ -554,11 +553,16 @@ img{
       border-color: #b8adad;
       border-radius: 10px;
     }
+ }
+ .imagegraphic1{
+  height: 79%;
+  width: 100%;
+  margin-top: 35px;
  } 
  .imagegraphic2{
   width: 70%;
   margin-left: 100px;
  }
  .imagegraphic3{
-  
+
  }
