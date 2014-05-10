@@ -492,11 +492,28 @@ img{
   width: 82px;
   height: 102px;
   position: relative;
-  bottom: 59px;
-  right: 39px;
+  bottom: 83px;
+  right: 306px;
   float: right;
     img{
-      width: 223px;
+      width: 250px;
+      height: 120px;
+      border-bottom-style: double;
+      border-width: 1px;
+      border-color: #b8adad;
+      border-radius: 10px;
+    }
+ } 
+  #imgbuttongraphics5{
+  @include rounded(5px);
+  width: 82px;
+  height: 102px;
+  position: relative;
+  bottom: 83px;
+  right: 206px;
+  float: right;
+    img{
+      width: 250px;
       height: 120px;
       border-bottom-style: double;
       border-width: 1px;
