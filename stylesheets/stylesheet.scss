@@ -257,22 +257,21 @@
 #imageweb{
   @include rounded(10px);
   position: relative;
-  background-color: white;
-  width: 625px;
+  background-color: #FFF;
+  width: 65%;
   height: 315px;
   top: 23px;
-  margin-left: 181px;
+  margin-left: 203px;
 
 }
 #webcontainer{
   @include linear-gradient(#66BEBE, #FFF);
-  width: 1000px;
-  @include rounded(6px);
-  height: 367px;
-  position: relative;
-  top: 96px;
-  left: 150px;
+  width: 100%;
+  height: 409px;
+  position: absolute; 
+  top: 47px;
   display: inline-block;
+  right: 0px;
 
 
   }
