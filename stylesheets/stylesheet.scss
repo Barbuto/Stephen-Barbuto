@@ -395,7 +395,10 @@ img{
   }
 /* Graphics pages */
 #imagegraphics{
-  @include rounded(10px);
+  padding-right: 14px;
+  border-bottom-style: groove;
+  border-color: #8A7F7F;
+  border-right-style: groove;
   position: relative;
   width: 43%;
   height: 55%;
