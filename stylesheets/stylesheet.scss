@@ -117,6 +117,7 @@
     #web{
      width: 300px;
      border-right-style: ridge;
+     border-color: #000000;
      font-family: $font-sans;
      color: $button-color; 
         clear: both;
@@ -151,6 +152,7 @@
         width: 300px;
         font-family: $font-sans;
         border-left-style: ridge;
+         border-color: #000000;
         clear: both;
         position: absolute;
         top: 61%;

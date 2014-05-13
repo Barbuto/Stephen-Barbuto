@@ -182,6 +182,7 @@ h2 {
 #web {
   width: 300px;
   border-right-style: ridge;
+  border-color: #000000;
   font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
   color: black;
   clear: both;
@@ -213,6 +214,7 @@ h2 {
   width: 300px;
   font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
   border-left-style: ridge;
+  border-color: #000000;
   clear: both;
   position: absolute;
   top: 61%;
