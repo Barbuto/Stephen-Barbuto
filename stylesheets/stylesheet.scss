@@ -35,7 +35,7 @@
   }
 
   #billboard {
-   @include linear-gradient(#405CBE, #FFF);
+   @include linear-gradient(#405CBE, #8892B4);
    background-position: 50% 55%; 
    position: absolute;
    top: 0;
@@ -144,25 +144,24 @@
  /* About me homepage */    
     #me{
       position: absolute;
-      top: 100%;
-      bottom: 30%;
-      left: 30%;
+      bottom: 66%;
+      left: 56%;
         img {
-        width: 40%;  
+        width: 41%;  
         @include rounded( 120px); 
       }
         h3{
           font-family: $font-sans;
           position: absolute;
-          right: 28%;
-          top: 6%;
+          right: 29%;
+          top: 9%;
         }
         p {
           font-family: $font-sans;
           position: relative;
           left: 57%;
           padding: 15px;
-          font-size: 15px;
+          font-size: 16px;
         }
       
       }

@@ -104,19 +104,19 @@ footer {
 
 #billboard {
   /*Fall Back from browsers*/
-  background-color: white;
+  background-color: #8892b4;
   /*Monzilla Firefox*/
-  background-image: -moz-linear-gradient(#405cbe, white);
+  background-image: -moz-linear-gradient(#405cbe, #8892b4);
   /*Opera*/
-  background-image: 0 -linear-gradient(#405cbe, white);
+  background-image: 0 -linear-gradient(#405cbe, #8892b4);
   /*webkit (Safari 4+, Chrome 1+)*/
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #405cbe), color-stop(1, white));
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #405cbe), color-stop(1, #8892b4));
   /*webkit chrome 11+*/
-  background-image: -ms-linear-gradient(#405cbe, white);
+  background-image: -ms-linear-gradient(#405cbe, #8892b4);
   /*IE10*/
-  background-image: -ms-linear-gradient(#405cbe, white);
+  background-image: -ms-linear-gradient(#405cbe, #8892b4);
   /*W3C*/
-  background-image: linear-gradient(#405cbe, white);
+  background-image: linear-gradient(#405cbe, #8892b4);
   background-position: 50% 55%;
   position: absolute;
   top: 0;
@@ -211,25 +211,24 @@ h2 {
 /* About me homepage */
 #me {
   position: absolute;
-  top: 100%;
-  bottom: 30%;
-  left: 30%; }
+  bottom: 66%;
+  left: 56%; }
   #me img {
-    width: 40%;
+    width: 41%;
     -webkit-border-radius: 120px;
     -moz-border-radius: 120px;
     border-radius: 120px; }
   #me h3 {
     font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
     position: absolute;
-    right: 28%;
-    top: 6%; }
+    right: 29%;
+    top: 9%; }
   #me p {
     font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
     position: relative;
     left: 57%;
     padding: 15px;
-    font-size: 15px; }
+    font-size: 16px; }
 
 #media img {
   position: relative;
