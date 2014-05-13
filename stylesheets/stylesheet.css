@@ -78,7 +78,8 @@ li.facebook a {
       background-size: 24px 24px; } }
 
 header {
-  color: black; }
+  color: white;
+  background-color: black; }
 
 footer {
   font-family: "Jubilat", "Gorgia", "Serif";
@@ -127,7 +128,7 @@ footer {
   height: 394px; }
   #billboard h2 {
     float: right;
-    margin-right: 47%;
+    margin-right: 17%;
     font-variant: small-caps;
     font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
     font-size: 30px; }
