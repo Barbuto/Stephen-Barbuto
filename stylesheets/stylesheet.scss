@@ -144,8 +144,9 @@
  /* About me homepage */    
     #me{
       position: absolute;
-      bottom: 66%;
+      bottom: 25%;
       left: 56%;
+      
         img {
         width: 41%;  
         @include rounded( 120px); 
@@ -153,23 +154,27 @@
         h3{
           font-family: $font-sans;
           position: absolute;
-          right: 29%;
-          top: 9%;
+          right: 22%;
+          top: 1%;
         }
         p {
           font-family: $font-sans;
           position: relative;
-          left: 57%;
+          left: 50%;
+          width: 236px;
           padding: 15px;
           font-size: 16px;
-        }
+          bottom: 188px;
+}
+        
       
       }
       #media{
         img{
           position: relative;
           width: 13%;
-          left: 71%;
+          left: 90%;
+          top: 58px;
         }
       }
 

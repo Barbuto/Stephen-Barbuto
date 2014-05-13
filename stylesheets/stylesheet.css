@@ -211,7 +211,7 @@ h2 {
 /* About me homepage */
 #me {
   position: absolute;
-  bottom: 66%;
+  bottom: 25%;
   left: 56%; }
   #me img {
     width: 41%;
@@ -221,19 +221,22 @@ h2 {
   #me h3 {
     font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
     position: absolute;
-    right: 29%;
-    top: 9%; }
+    right: 22%;
+    top: 1%; }
   #me p {
     font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
     position: relative;
-    left: 57%;
+    left: 50%;
+    width: 236px;
     padding: 15px;
-    font-size: 16px; }
+    font-size: 16px;
+    bottom: 188px; }
 
 #media img {
   position: relative;
   width: 13%;
-  left: 71%; }
+  left: 90%;
+  top: 58px; }
 
 /*end home page about me */
 /*nav bar*/
