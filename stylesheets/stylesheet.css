@@ -94,14 +94,14 @@ footer {
 
 #footerhome {
   font-family: "Jubilat", "Gorgia", "Serif";
-  font-size: 12px;
+  font-size: 14px;
   color: #746565;
   clear: both;
   position: absolute;
   text-align: center;
   left: 39%;
   width: 300px;
-  top: 140%; }
+  top: 100%; }
 
 #billboard {
   /*Fall Back from browsers*/
