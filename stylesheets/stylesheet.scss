@@ -35,21 +35,15 @@
   }
 
   #billboard {
-   @include linear-gradient($color-main, #FFF);
+   @include linear-gradient(#405CBE, #FFF);
    background-position: 50% 55%; 
    position: absolute;
    top: 0;
-   right: 0;
-   bottom: 40%;
+   right: 1px;
+   border-bottom-right-radius: 53px;
    left: 0;
-   overflow: hidden;
-   background-size: 1363px 1180px;
-   background{
-      right: auto;
-      left: 50%;
-      margin-left: -732px;
-      width: 1440px;
-      background-size: 1363px 1180px;
+   width: 699px;
+   height: 394px;
    }
    .pos{
       position: absolute;
@@ -78,7 +72,7 @@
       font-size: 20px;
       } 
     }
-   } 
+    
   h2 {
     float: right;
     margin-right: 47%; 

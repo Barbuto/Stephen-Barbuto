@@ -106,50 +106,46 @@ footer {
   /*Fall Back from browsers*/
   background-color: white;
   /*Monzilla Firefox*/
-  background-image: -moz-linear-gradient(#3f745c, white);
+  background-image: -moz-linear-gradient(#405cbe, white);
   /*Opera*/
-  background-image: 0 -linear-gradient(#3f745c, white);
+  background-image: 0 -linear-gradient(#405cbe, white);
   /*webkit (Safari 4+, Chrome 1+)*/
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #3f745c), color-stop(1, white));
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #405cbe), color-stop(1, white));
   /*webkit chrome 11+*/
-  background-image: -ms-linear-gradient(#3f745c, white);
+  background-image: -ms-linear-gradient(#405cbe, white);
   /*IE10*/
-  background-image: -ms-linear-gradient(#3f745c, white);
+  background-image: -ms-linear-gradient(#405cbe, white);
   /*W3C*/
-  background-image: linear-gradient(#3f745c, white);
+  background-image: linear-gradient(#405cbe, white);
   background-position: 50% 55%;
   position: absolute;
   top: 0;
-  right: 0;
-  bottom: 40%;
+  right: 1px;
+  border-bottom-right-radius: 53px;
   left: 0;
-  overflow: hidden;
-  background-size: 1363px 1180px; }
-  #billboard background {
-    right: auto;
-    left: 50%;
-    margin-left: -732px;
-    width: 1440px;
-    background-size: 1363px 1180px; }
-  #billboard .pos {
-    position: absolute; }
-  #billboard h1 {
-    padding: 25px 0;
-    float: right;
-    margin-right: 61%;
-    font-size: 54px;
-    font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
-    font-weight: bold;
-    font-line-height: 1; }
-    @media only screen and (max-width: 1200px) {
-      #billboard h1 {
-        font-size: 48px; } }
-    @media only screen and (max-width: 800px) {
-      #billboard h1 {
-        font-size: 32px; } }
-    @media only screen and (max-width: 500px) {
-      #billboard h1 {
-        font-size: 20px; } }
+  width: 699px;
+  height: 394px; }
+
+.pos {
+  position: absolute; }
+
+h1 {
+  padding: 25px 0;
+  float: right;
+  margin-right: 61%;
+  font-size: 54px;
+  font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
+  font-weight: bold;
+  font-line-height: 1; }
+  @media only screen and (max-width: 1200px) {
+    h1 {
+      font-size: 48px; } }
+  @media only screen and (max-width: 800px) {
+    h1 {
+      font-size: 32px; } }
+  @media only screen and (max-width: 500px) {
+    h1 {
+      font-size: 20px; } }
 
 h2 {
   float: right;
