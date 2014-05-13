@@ -125,6 +125,21 @@ footer {
   left: 0;
   width: 699px;
   height: 394px; }
+  #billboard h2 {
+    float: right;
+    margin-right: 47%;
+    font-variant: small-caps;
+    font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
+    font-size: 30px; }
+    @media only screen and (max-width: 1200px) {
+      #billboard h2 {
+        font-size: 28px; } }
+    @media only screen and (max-width: 800px) {
+      #billboard h2 {
+        font-size: 20px; } }
+    @media only screen and (max-width: 500px) {
+      #billboard h2 {
+        font-size: 18px; } }
 
 .pos {
   position: absolute; }
@@ -132,7 +147,7 @@ footer {
 h1 {
   padding: 25px 0;
   float: right;
-  margin-right: 61%;
+  margin-right: 21%;
   font-size: 54px;
   font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "San-Serif";
   font-weight: bold;

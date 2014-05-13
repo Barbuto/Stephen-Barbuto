@@ -44,6 +44,28 @@
    left: 0;
    width: 699px;
    height: 394px;
+
+  h2 {
+    float: right;
+    margin-right: 47%; 
+    font-variant: small-caps;
+    font-family: $font-sans;
+    font-size: 30px;
+   @include responsive(wide-screens) {
+     font-size: 28px;
+    }
+    
+    @include responsive(medium-screens) {
+      font-size: 20px;
+    }
+    
+    @include responsive(small-screens) {
+      font-size: 18px;
+      } 
+    }
+
+
+
    }
    .pos{
       position: absolute;
@@ -53,7 +75,7 @@
   h1 {
     padding: 25px 0;
     float: right;
-    margin-right: 61%;
+    margin-right: 21%;
     font: {
     size: 54px;
     family: $font-sans;
