@@ -229,7 +229,7 @@ h2 {
 /* About me homepage */
 #me {
   position: absolute;
-  bottom: 25%;
+  top: 32px;
   left: 56%; }
   #me img {
     width: 41%;
@@ -254,7 +254,7 @@ h2 {
   position: relative;
   width: 72px;
   left: 59%;
-  top: 298px; }
+  top: 335px; }
 
 /*end home page about me */
 /*nav bar*/
