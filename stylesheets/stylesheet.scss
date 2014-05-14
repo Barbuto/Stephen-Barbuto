@@ -190,13 +190,15 @@
           padding: 15px;
           font-size: 16px;
           bottom: 188px;
+
+               @media (max-width: 1350px) {
+          
+            left: 740px;
+          
+        }
 }
         
-        @media (max-width: 1350px) {
-          #me{
-            left: 740px;
-          }
-        }
+
       
       }
       #media{
