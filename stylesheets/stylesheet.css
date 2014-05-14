@@ -249,6 +249,9 @@ h2 {
     padding: 15px;
     font-size: 16px;
     bottom: 188px; }
+  @media (max-width: 1350px) {
+    #me #me {
+      left: 740px; } }
 
 #media img {
   position: relative;
