@@ -511,7 +511,7 @@ img.opacity:hover {
   width: 82px;
   height: 110px;
   position: relative;
-  bottom: 69%;
+  top: 5%;
   float: right;
   right: 270px; }
   #imgbuttongraphics1 img {
@@ -529,7 +529,7 @@ img.opacity:hover {
   width: 82px;
   height: 102px;
   position: relative;
-  bottom: 125px;
+  bottom: 115px;
   right: 200px;
   float: right; }
   #imgbuttongraphics2 img {
@@ -547,12 +547,12 @@ img.opacity:hover {
   width: 82px;
   height: 102px;
   position: relative;
-  bottom: 118px;
-  right: 225px;
+  bottom: 75px;
+  right: 222px;
   float: right; }
   #imgbuttongraphics3 img {
-    width: 130px;
-    height: 170px;
+    width: 100px;
+    height: 130px;
     border-bottom-style: double;
     border-width: 1px;
     border-color: #b8adad;
@@ -565,12 +565,12 @@ img.opacity:hover {
   width: 82px;
   height: 102px;
   position: relative;
-  bottom: 20px;
-  right: 242px;
+  bottom: 150px;
+  right: 20px;
   float: right; }
   #imgbuttongraphics4 img {
-    width: 170px;
-    height: 100px;
+    width: 140px;
+    height: 80px;
     border-bottom-style: double;
     border-width: 1px;
     border-color: #b8adad;
@@ -583,12 +583,12 @@ img.opacity:hover {
   width: 82px;
   height: 102px;
   position: relative;
-  bottom: 118px;
-  right: 42px;
+  bottom: 250px;
+  left: 155px;
   float: right; }
   #imgbuttongraphics5 img {
-    width: 200px;
-    height: 90px;
+    width: 160px;
+    height: 80px;
     border-bottom-style: double;
     border-width: 1px;
     border-color: #b8adad;
@@ -601,12 +601,12 @@ img.opacity:hover {
   width: 82px;
   height: 102px;
   position: relative;
-  bottom: 373px;
-  right: 48px;
+  bottom: 525px;
+  left: 145px;
   float: right; }
   #imgbuttongraphics6 img {
-    width: 200px;
-    height: 90px;
+    width: 170px;
+    height: 80px;
     border-bottom-style: double;
     border-width: 1px;
     border-color: #b8adad;
@@ -619,12 +619,12 @@ img.opacity:hover {
   width: 82px;
   height: 102px;
   position: relative;
-  bottom: 195px;
-  right: 240px;
+  bottom: 315px;
+  right: 193px;
   float: left; }
   #imgbuttongraphics7 img {
-    width: 160px;
-    height: 130px;
+    width: 130px;
+    height: 90px;
     border-bottom-style: double;
     border-width: 1px;
     border-color: #b8adad;
@@ -649,13 +649,13 @@ img.opacity:hover {
     border-radius: 10px; }
 
 #galleryback {
-  width: 500px;
-  height: 671px;
+  width: 46%;
+  height: 470px;
   position: relative;
   background-color: black;
   float: right;
-  bottom: 400px;
-  right: 75px; }
+  bottom: 72%;
+  right: 21px; }
 
 .imagegraphic1 {
   height: 79%;
