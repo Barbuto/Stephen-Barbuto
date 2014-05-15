@@ -13,7 +13,7 @@
   footer {
        font-family: $font-serif;
        font-size: 13px;
-       color: #4C3F3F;
+       color: #FFF;
         clear: both;
         position: absolute;
         text-align: center;
@@ -669,4 +669,8 @@ img{
   top: 47px;
   display: inline-block;
   right: 0px;
+  }
+
+  #portback{
+    background-color: #000;
   }

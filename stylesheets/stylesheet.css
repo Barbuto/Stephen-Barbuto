@@ -84,7 +84,7 @@ header {
 footer {
   font-family: "Jubilat", "Gorgia", "Serif";
   font-size: 13px;
-  color: #4C3F3F;
+  color: #FFF;
   clear: both;
   position: absolute;
   text-align: center;
@@ -740,3 +740,6 @@ img.opacity:hover {
   top: 47px;
   display: inline-block;
   right: 0px; }
+
+#portback {
+  background-color: #000; }
