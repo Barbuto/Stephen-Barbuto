@@ -502,7 +502,10 @@ img.opacity:hover {
   position: absolute;
   top: 47px;
   display: inline-block;
-  right: 0px; }
+  right: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #21D910;
+  border-bottom-width: 1.5px; }
 
 #imgbuttongraphics1 {
   -webkit-border-radius: 5px;
