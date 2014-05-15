@@ -84,13 +84,13 @@ header {
 footer {
   font-family: "Jubilat", "Gorgia", "Serif";
   font-size: 13px;
-  color: white;
+  color: #4C3F3F;
   clear: both;
   position: absolute;
   text-align: center;
   left: 39%;
   width: 300px;
-  top: 115%; }
+  top: 92%; }
 
 #footerhome {
   font-family: "Jubilat", "Gorgia", "Serif";
