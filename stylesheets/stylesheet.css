@@ -511,12 +511,12 @@ img.opacity:hover {
   width: 82px;
   height: 110px;
   position: relative;
-  bottom: 52%;
+  bottom: 69%;
   float: right;
   right: 270px; }
   #imgbuttongraphics1 img {
-    width: 130px;
-    height: 170px;
+    width: 100px;
+    height: 130px;
     border-bottom-style: double;
     border-width: 1px;
     border-color: #b8adad;
@@ -529,12 +529,12 @@ img.opacity:hover {
   width: 82px;
   height: 102px;
   position: relative;
-  bottom: 173px;
-  right: 246px;
+  bottom: 125px;
+  right: 200px;
   float: right; }
   #imgbuttongraphics2 img {
-    width: 175px;
-    height: 120px;
+    width: 140px;
+    height: 90px;
     border-bottom-style: double;
     border-width: 1px;
     border-color: #b8adad;
@@ -648,7 +648,7 @@ img.opacity:hover {
     border-color: #b8adad;
     border-radius: 10px; }
 
-.galleryback {
+#galleryback {
   width: 500px;
   height: 671px;
   position: relative;
