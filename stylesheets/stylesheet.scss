@@ -671,7 +671,7 @@ img{
 #container3d{
   background-color: #17BB95;
   width: 100%;
-  height: 520px;
+  height: 600px;
   position: absolute; 
   top: 47px;
   display: inline-block;
@@ -685,7 +685,7 @@ img{
   }
   #galleryback3d{
     width: 46%;
-    height: 470px;
+    height: 560px;
     position: relative;
     background-color: #AA2222;
     float: right;
@@ -704,7 +704,7 @@ img{
      position: relative;
      top: 5%;
      float: right;
-     right: 270px;
+     right: 280px;
    img{ 
     width: 140px;
     height: 90px;
@@ -719,8 +719,8 @@ img{
      width: 82px;
      height: 102px;
      position: relative;
-     bottom: 115px;
-     right: 200px;
+     bottom: 95px;
+     right: 190px;
      float: right;
   img{
     width: 140px;
@@ -736,8 +736,8 @@ img{
      width: 82px;
      height: 102px;
      position: relative;
-     bottom: 115px;
-     right: 200px;
+     bottom: 195px;
+     left: 185px;
      float: right;
   img{
     width: 140px;
@@ -747,30 +747,14 @@ img{
     border-color: #b8adad;
     border-radius: 10px;
   }
-}  #imgbutton3d3{
-    @include rounded(5px);
-     width: 82px;
-     height: 102px;
-     position: relative;
-     bottom: 115px;
-     right: 200px;
-     float: right;
-  img{
-    width: 140px;
-    height: 90px;
-    border-bottom-style: double;
-    border-width: 1px;
-    border-color: #b8adad;
-    border-radius: 10px;
-  }
-}  
+}
 #imgbutton3d4{
     @include rounded(5px);
      width: 82px;
      height: 102px;
      position: relative;
-     bottom: 115px;
-     right: 200px;
+     bottom: 160px;
+     right: 191px;
      float: right;
   img{
     width: 140px;
@@ -786,8 +770,7 @@ img{
      width: 82px;
      height: 102px;
      position: relative;
-     bottom: 115px;
-     right: 200px;
+     bottom: 262px;
      float: right;
   img{
     width: 140px;
@@ -803,8 +786,8 @@ img{
      width: 82px;
      height: 102px;
      position: relative;
-     bottom: 115px;
-     right: 200px;
+     bottom: 364px;
+     left: 186px;
      float: right;
   img{
     width: 140px;
@@ -820,8 +803,8 @@ img{
      width: 82px;
      height: 102px;
      position: relative;
-     bottom: 115px;
-     right: 200px;
+     bottom: 329px;
+     right: 191px;
      float: right;
   img{
     width: 140px;
@@ -837,8 +820,7 @@ img{
      width: 82px;
      height: 102px;
      position: relative;
-     bottom: 115px;
-     right: 200px;
+     bottom: 431px;
      float: right;
   img{
     width: 140px;
@@ -854,8 +836,8 @@ img{
      width: 82px;
      height: 102px;
      position: relative;
-     bottom: 115px;
-     right: 200px;
+     bottom: 431px;
+     left: 184px;
      float: right;
   img{
     width: 140px;
@@ -871,8 +853,8 @@ img{
      width: 82px;
      height: 102px;
      position: relative;
-     bottom: 115px;
-     right: 200px;
+     bottom: 397px;
+     right: 191px;
      float: right;
   img{
     width: 140px;
@@ -888,8 +870,7 @@ img{
      width: 82px;
      height: 102px;
      position: relative;
-     bottom: 115px;
-     right: 200px;
+     bottom: 499px;
      float: right;
   img{
     width: 140px;
@@ -900,3 +881,14 @@ img{
     border-radius: 10px;
   }
 }  
+#footer3d{
+    font-family: $font-serif;
+       font-size: 13px;
+       color: #FFF;
+        clear: both;
+        position: absolute;
+        text-align: center;
+        left: 39%;
+        width: 300px;
+        top: 665px;
+}
