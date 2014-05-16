@@ -651,10 +651,17 @@ img{
  }
 /*3-D page*/
 #image3d{
-  @include rounded(10px);
+  padding-right: 14px;
+  padding-bottom: 14px;
+  border-bottom-right-radius: 50px;
+  border-bottom-style: solid;
+  border-bottom-left-radius: 50px;
+  border-left-style: solid;
+  border-color: #FFF;
+  border-right-style: solid;
   position: relative;
   width: 43%;
-  height: 55%;
+  height: 71%;
   top: 38px;
   margin-left: 80px;
 img{
@@ -662,15 +669,17 @@ img{
   }
 }
 #container3d{
-  @include linear-gradient(#BCD562, #FFF);
+  background-color: #000;
   width: 100%;
-  height: 114%;
+  height: 520px;
   position: absolute; 
   top: 47px;
   display: inline-block;
   right: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFF;
+  border-bottom-width: 1.5px;
   }
-
   #portback{
     background-color: #000;
   }

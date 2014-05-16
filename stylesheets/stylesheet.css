@@ -706,12 +706,17 @@ img.opacity:hover {
 
 /*3-D page*/
 #image3d {
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 10px;
+  padding-right: 14px;
+  padding-bottom: 14px;
+  border-bottom-right-radius: 50px;
+  border-bottom-style: solid;
+  border-bottom-left-radius: 50px;
+  border-left-style: solid;
+  border-color: #FFF;
+  border-right-style: solid;
   position: relative;
   width: 43%;
-  height: 55%;
+  height: 71%;
   top: 38px;
   margin-left: 80px; }
   #image3d img {
@@ -720,26 +725,16 @@ img.opacity:hover {
     border-radius: 10px; }
 
 #container3d {
-  /*Fall Back from browsers*/
-  background-color: white;
-  /*Monzilla Firefox*/
-  background-image: -moz-linear-gradient(#bcd562, white);
-  /*Opera*/
-  background-image: 0 -linear-gradient(#bcd562, white);
-  /*webkit (Safari 4+, Chrome 1+)*/
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #bcd562), color-stop(1, white));
-  /*webkit chrome 11+*/
-  background-image: -ms-linear-gradient(#bcd562, white);
-  /*IE10*/
-  background-image: -ms-linear-gradient(#bcd562, white);
-  /*W3C*/
-  background-image: linear-gradient(#bcd562, white);
+  background-color: #000;
   width: 100%;
-  height: 114%;
+  height: 520px;
   position: absolute;
   top: 47px;
   display: inline-block;
-  right: 0px; }
+  right: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFF;
+  border-bottom-width: 1.5px; }
 
 #portback {
   background-color: #000; }
