@@ -90,7 +90,7 @@ footer {
   text-align: center;
   left: 39%;
   width: 300px;
-  top: 92%; }
+  top: 615px; }
 
 #footerhome {
   font-family: "Jubilat", "Gorgia", "Serif";
@@ -652,7 +652,7 @@ img.opacity:hover {
     border-radius: 10px; }
 
 #galleryback {
-  width: 46%;
+  width: 600px;
   height: 470px;
   position: relative;
   background-color: #796A6A;
@@ -752,3 +752,111 @@ img.opacity:hover {
   border-color: #FFF;
   border-radius: 20px;
   border-width: 1.5px; }
+
+#imgbutton3d1 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 82px;
+  height: 110px;
+  position: relative;
+  top: 5%;
+  float: right;
+  right: 270px; }
+  #imgbutton3d1 img {
+    width: 100px;
+    height: 130px;
+    border-bottom-style: double;
+    border-width: 1px;
+    border-color: #b8adad;
+    border-radius: 10px; }
+
+#imgbutton3d2 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 82px;
+  height: 102px;
+  position: relative;
+  bottom: 115px;
+  right: 200px;
+  float: right; }
+  #imgbutton3d2 img {
+    width: 140px;
+    height: 90px;
+    border-bottom-style: double;
+    border-width: 1px;
+    border-color: #b8adad;
+    border-radius: 10px; }
+
+#imgbutton3d3 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 82px;
+  height: 102px;
+  position: relative;
+  bottom: 115px;
+  right: 200px;
+  float: right; }
+  #imgbutton3d3 img {
+    width: 140px;
+    height: 90px;
+    border-bottom-style: double;
+    border-width: 1px;
+    border-color: #b8adad;
+    border-radius: 10px; }
+
+#imgbutton3d3 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 82px;
+  height: 102px;
+  position: relative;
+  bottom: 115px;
+  right: 200px;
+  float: right; }
+  #imgbutton3d3 img {
+    width: 140px;
+    height: 90px;
+    border-bottom-style: double;
+    border-width: 1px;
+    border-color: #b8adad;
+    border-radius: 10px; }
+
+#imgbutton3d4 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 82px;
+  height: 102px;
+  position: relative;
+  bottom: 115px;
+  right: 200px;
+  float: right; }
+  #imgbutton3d4 img {
+    width: 140px;
+    height: 90px;
+    border-bottom-style: double;
+    border-width: 1px;
+    border-color: #b8adad;
+    border-radius: 10px; }
+
+#imgbutton3d5 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 82px;
+  height: 102px;
+  position: relative;
+  bottom: 115px;
+  right: 200px;
+  float: right; }
+  #imgbutton3d5 img {
+    width: 140px;
+    height: 90px;
+    border-bottom-style: double;
+    border-width: 1px;
+    border-color: #b8adad;
+    border-radius: 10px; }
