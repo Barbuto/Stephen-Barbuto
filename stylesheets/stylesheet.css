@@ -725,7 +725,7 @@ img.opacity:hover {
     border-radius: 10px; }
 
 #container3d {
-  background-color: #000;
+  background-color: #17BB95;
   width: 100%;
   height: 520px;
   position: absolute;
@@ -743,12 +743,12 @@ img.opacity:hover {
   width: 46%;
   height: 470px;
   position: relative;
-  background-color: #796A6A;
+  background-color: #AA2222;
   float: right;
   bottom: 72%;
   right: 21px;
   opacity: .95;
   border-style: solid;
-  border-color: #21D910;
+  border-color: #FFF;
   border-radius: 20px;
   border-width: 1.5px; }
