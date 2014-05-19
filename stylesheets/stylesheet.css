@@ -103,6 +103,17 @@ footer {
   width: 300px;
   top: 100%; }
 
+#webfooter {
+  font-family: "Jubilat", "Gorgia", "Serif";
+  font-size: 13px;
+  color: #746565;
+  clear: both;
+  position: absolute;
+  text-align: center;
+  left: 39%;
+  width: 300px;
+  top: 785px; }
+
 #billboard {
   /*Fall Back from browsers*/
   background-color: #8892b4;
@@ -486,7 +497,7 @@ img.opacity:hover {
   border-color: #21D910;
   border-right-style: solid;
   position: relative;
-  width: 43%;
+  width: 520px;
   height: 71%;
   top: 38px;
   margin-left: 80px; }
@@ -715,7 +726,7 @@ img.opacity:hover {
   border-color: #FFF;
   border-right-style: solid;
   position: relative;
-  width: 43%;
+  width: 520px;
   height: 71%;
   top: 38px;
   margin-left: 80px; }
@@ -740,7 +751,7 @@ img.opacity:hover {
   background-color: #000; }
 
 #galleryback3d {
-  width: 46%;
+  width: 600px;
   height: 560px;
   position: relative;
   background-color: #AA2222;

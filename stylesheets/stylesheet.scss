@@ -34,7 +34,17 @@
         width: 300px;
         top: 100%;
   }
-
+  #webfooter{
+    font-family: $font-serif;
+       font-size: 13px;
+       color: $color-lighter;
+        clear: both;
+        position: absolute;
+        text-align: center;
+        left: 39%;
+        width: 300px;
+        top: 785px;
+}
   #billboard {
    @include linear-gradient(#405CBE, #8892B4);
    background-position: 50% 55%; 
@@ -434,7 +444,7 @@ img{
   border-color: #21D910;
   border-right-style: solid;
   position: relative;
-  width: 43%;
+  width: 520px;
   height: 71%;
   top: 38px;
   margin-left: 80px;
@@ -660,7 +670,7 @@ img{
   border-color: #FFF;
   border-right-style: solid;
   position: relative;
-  width: 43%;
+  width: 520px;
   height: 71%;
   top: 38px;
   margin-left: 80px;
@@ -684,7 +694,7 @@ img{
     background-color: #000;
   }
   #galleryback3d{
-    width: 46%;
+    width: 600px;
     height: 560px;
     position: relative;
     background-color: #AA2222;
